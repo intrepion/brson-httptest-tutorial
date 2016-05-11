@@ -6,3 +6,4 @@ authors = ["Oliver Forral <intrepion@gmail.com>"]
 [dependencies]
 iron = "*"
 rustc-serialize = "*"
+router = "*"
