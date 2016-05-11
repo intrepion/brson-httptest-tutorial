@@ -7,3 +7,4 @@ authors = ["Oliver Forral <intrepion@gmail.com>"]
 iron = "*"
 rustc-serialize = "*"
 router = "*"
+hyper = "*"
